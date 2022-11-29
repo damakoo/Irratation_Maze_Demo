@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alteredfestival",
+  "private_key_id": "c107771445f85abe3c21e1ec85e8935b3ca24dd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6casOSfmEey4X\nghQn67TTqYjOKMYdVEJtHD6t5Vu+cIh3hEUtCwFWsnKh+a/kamjrZ34Qr7xCRG32\nfQ5jg7e7W5a935jTa3vGH6jccfYYvwOubk/dGtmxvOZ7o627sm/KHNZwNdnpDDGX\nkd0yvTIHfC9rUdzL4CkvrHdvLJwl0hUOVvb/Qhpi1TRfQXEpI5SkItE3wfKpR6Xd\n/6dEMH2GRLX/29hmtBpwShCsUPTn6cAT+atULJCHlLrTWf82ZeLsNC22B6HDvx3k\nwKJ35xIMTp1N9pPKLH0r4MYklNA5jzuBbvm/PvTL4KVdKfXgxpOip3a3XcuGn9xh\n0bJ3itszAgMBAAECggEANh1z9svF3owaTrx0uTmS3LSifqQbDLw+I4lFMBgYTug+\n0+HSakZ9dvqIhzb/tJ6mIV2Cm7lGPT27ZQXbPUsn8vucfzP9GbBi1pit3H4/XeNj\nYCeoipaWhR49D7nsXURnahSAsUUQILJnWoT93RJJCR8kbFPwcER579pxOBWMpPUb\n1ZFciIRzVN1QvjvMK+szjpJWrumyIhMXkyH48q5v+SR5L5K0h3X5H9KStscwbWBA\n8U1cyuuMFUuK2e3aLjLDvrqFphgk1zQMjcb46F8xp2RKLMupDyOXakjd43RZ3JGQ\neRZXtApuOFQ8eKT6XDjVsVvh3ES9NHXnUcV2r87XwQKBgQDuVchO/WClvv6Zzaci\na/09MqeTYqvqllJ3GB+Ie0t9+J+XSa34LLPb5F3/emS66mfhe8+Zk8d5SuXISG7i\nxNw2jBBRDdlHh//miuzzhAu6ueuVv0Y7IS4RV4NYWZmNyujBAK6RklgX/OBuh3cy\nbxiMCeRqAGCgTgPqe5AL2KVkkQKBgQDIQ0tPgi1OuWqYJwHgK8HDRcw+DsoPWDJX\nTkQWAFLA862l4lmj57Yb9kWp+uhH0U0+edNe+GcmWkTzD6jebYqdvW2UkSul9Rta\niF8SvWCFqeRlBdJ6YBiTiFmM9SEIOh4bZjOEUxgWuNe4sY6nwg/6l/XMFkOkfUjN\nwV7nEWCVgwKBgC4jXx6jgGU1vzXpEPTh8Ok6+CPZEyzbouU5P0l9jNS7H7H66nnD\ntaHY6LV/bSaeIDQPctXpPNFnRWprU0QFFhhdLv9x7eEiG9D2jf5qTpb8TPX1TFRA\nDRoAVgXxen9vi3Vpe2Hk8bbbFltvUAzsYtUhSR2YKxx9XdazyuPwMbxxAoGBAIra\n5iAF8eZQ99Dx0wIdNOdxwPESjhXfoGAau2jJ5pc1HqUTcfYM1p9CvgDjISWSwU1d\naSrDb7oPAxnJNNys9Vz0GEPX+HzEm6fFQK6cso1bRCqrw8noUYISG4159eJfcbqr\nvXK1rtEqbyD3tCMrkqq9rMdKdLJb0BwiROxQhziDAoGAdZBVtTdZOZQ7MYHX3tQU\nCnJTgHB0+XALLm1mAANQE1WgO19c9CS4yDNqgyW2ZBfSZszgHSYdDxgC7CtEQ/8P\n8pJ8hTpasfi2V9EHQONeJ1SZLSAI6Z0pk7h/7Aj8K7MOnHS2HorHD+Ra9p4RUplz\nkmhaVq9ZtrvL8Xmd+l7GM9c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-728@alteredfestival.iam.gserviceaccount.com",
+  "client_id": "109990960902329306468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-728%40alteredfestival.iam.gserviceaccount.com"
+}
